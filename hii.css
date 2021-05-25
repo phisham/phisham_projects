@@ -1,0 +1,31 @@
+.no {
+font-size: 4em;
+color: rgb(11, 5, 43);
+}
+img {
+    width: 200px;
+    height: 200px ;
+}
+p {
+    color: rgb(2, 3, 12);
+    font-style: italic;
+    font-size: 2em;
+}
+body {
+    background-image: url("../ha.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    
+}
+#navbar-example2 {
+    background-color: #1c2449;
+}
+.h {
+    color: rgb(11, 5, 43);
+}
+.navbar-brand {
+    color: oldlace;
+}
